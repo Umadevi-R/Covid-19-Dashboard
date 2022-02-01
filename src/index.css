@@ -22,7 +22,7 @@ font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 table.dataTable{
   padding: 10px;
   font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
-
+  width: 100%;
 }
 span{
   float: right;
